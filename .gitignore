@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs and temp
+logs/
+*.log
+tmp/
+dist/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
